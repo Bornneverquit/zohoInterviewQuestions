@@ -1,1 +1,98 @@
+~~~December-23-2025~~~ (When I have 2 years and 6 months of Experince )
 
+--- Technical Discussion 1 ---
+1. Project Explianation
+2. what skills i have
+3. ACID principles
+4. Normalization
+5. Constructors 
+6. Polymorphisim 
+7. Types of Trees
+8. DFS vs BFS
+9. Trees Traversal
+10. REST API
+11. DeadLocks in SQL
+12. Types of Cahes in SQL
+13. Product of the array expect self (DSA)
+14. Order of SQL Execution
+15. Explian group by and aggregate funstions
+16. Two SQL Querry 
+  1. return the name with nuber of times the name appers in another table --> Group by and Agg functions
+  2. A table having the Deposit and Withdrawn details we need to return the data of the each person having balance on the everydate ---> Sub querry with group by
+
+Result: Feedback was good moved to the next Round
+
+--- Technical Discussion 2 ---
+1. Explian your Current Project
+2. they picked a module and Wanted me to explian the Full Flow of the one module I explianed from the Role based access , Requirements , Project Structure
+3. Asked to Design the API endpoints , request structure , response structure for a cab booking application in the notes 
+4. Diffrence between == & .equals explian detail with usecases
+5. implement Binary Search Code explain detail
+6. Design a Database for a form Creation (eg: survey monkey forms, Google forms, zoho forms)
+7. Discussed about the table Relationships between other tables and the usecases
+8. Puzzle two jars and have fill another jar for a particullar number -> jar 1 have 3 Liters capacity Jar 2 have 4 liters Capacity end goal was to fill 5 Liters
+
+Result: Feedback was good and moved to the next Round
+
+--- Technical Discussion 3 ---
+
+1. String vs string buffer vs String Builder
+2. Pattern Printing
+3. Print the vowels in the Array 
+4. Clock wise matrix Traversal
+5.Design a DB for customers , products and billing details for a super market
+6. write a querry for finding the customers who buyed the biscuts
+7. What is DB transations
+8. Aptitude Question : A trian is moving in 90 km/hr speed for 10 minutes how long it will go ?
+
+Result: Feedback was good and moved to the HR round
+
+
+
+~~~june-30-2025~~~ (When I have 1 years 11 months of Exp)
+
+1) Discussed about the project and custumers.
+2) why your company using the cab booking application
+3) Purchase module what it actually does 
+4) what you worked most 
+5) List the features you implemented fully
+6) Who implemented the streams
+7) How Bulk user Upload works
+8) why you leaving current org in less that 2YOE
+9) why zoho.
+10) There is array and a value k you need to pick any one subarray 
+    and do some addition/subtraction you need to maximize the array value as k.
+    but only one subarray you neeed to choose.
+
+11) There are two tables serviceDetails , ServiceAvailability .
+    [ServiceDetails]       [ServiceAvailability]             
+    ID  (Primary Key)      ID (Primary Key)
+    Name                   serviceDetailId (Foreign key)
+                           AvailabilityDate 
+   Service Availability have redundant data need to Identify the Newest service
+   started from july one that  not occured or happened before july
+
+Result: Rejected after the First Technical Discussion & Feedbacks was mixed
+Reflextion: Messed up about my projected Expliantion that initially give the bad impression. project Explianation Should be in structured way.
+
+~~~September-16-2024~~~ ( when I have Less than 1 YOE experience)
+
+Tell me about your work experience 
+
+1) tell the Status codes you know apart from 400 and 500
+2) Diffrent between 503 vs 504
+3) what is Jdbc
+4) what is Shell scripting
+5) what you know about Low level design
+6) Api design :- design an api for a Cab booking Application getting the status of availability
+7) Why json have a outer array when creating an api( It was follow up question for the previously wrong given answer) 
+8) Why auth token is set in headers
+9) Rest API
+10) Have you worked in GraphQl 
+11) Authentication vs Authorization
+12) Inheritance
+13) How Java compiler works 
+14) why Java have .Java extension
+15) lets discuss about Queue, LinkedIn list , array list , stack , map , set
+
+Result : Feedback was good,  profile moved to the another team after the interview they mentioned profile not matched with current team. next team Rejected me 
